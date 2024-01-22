@@ -41,9 +41,9 @@ const BlogDeatils = async ({ params }: any) => {
     return null;
   }
   return (
-    <div className="container mx-auto text-white">
+    <div className="container mx-auto text-white px-4">
       <div className="flex flex-col gap-2 my-6">
-        <h1 className="uppercase font-bold  text-3xl leading-none">
+        <h1 className="uppercase font-bold  text-3xl leading-normal">
           {data.title}
         </h1>
         <p>{data.description}</p>
@@ -56,8 +56,7 @@ const BlogDeatils = async ({ params }: any) => {
         height={1000}
         className="object-contain w-full h-full"
       />
-      <div className="mt-8 py-8 flex flex-col gap-8"></div>
-      <article className="prose lg:prose-xl w-full text-white min-w-full">
+      <article className="prose lg:prose-xl w-full text-white min-w-full mt-8">
         {data.content}
       </article>
     </div>
