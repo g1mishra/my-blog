@@ -1,6 +1,6 @@
 {
   "commit": "d4b99a8d30af261f8e0a80bb827a83b2350573dc",
-  "generated": "2024-01-22T16:59:56.624Z",
+  "generated": "2024-01-22T17:02:00.643Z",
   "metadata": [
     {
       "__outstatic": {
@@ -69,7 +69,7 @@
     {
       "__outstatic": {
         "commit": "d4b99a8d30af261f8e0a80bb827a83b2350573dc",
-        "hash": "3279420220",
+        "hash": "364615016",
         "path": "outstatic/content/blogs/migrating-to-linear-101.md"
       },
       "author": {
@@ -81,7 +81,7 @@
       "description": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
       "publishedAt": "2024-01-22T17:28:20.618Z",
       "slug": "migrating-to-linear-101",
-      "status": "draft",
+      "status": "published",
       "tags": [
         {
           "label": "Movies",

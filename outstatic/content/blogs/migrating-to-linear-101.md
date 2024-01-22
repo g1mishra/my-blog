@@ -1,6 +1,6 @@
 ---
 title: 'Migrating to Linear 101'
-status: 'draft'
+status: 'published'
 author:
   name: 'Jeevan Kumar'
   picture: 'https://avatars.githubusercontent.com/u/48170144?v=4'
