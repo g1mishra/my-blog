@@ -1,6 +1,6 @@
 {
-  "commit": "70f2d46f5a9a6e7bca4ea16c6d3bb1bb91e5ba1b",
-  "generated": "2024-01-22T16:47:51.463Z",
+  "commit": "a470b21a13293bf1141626bef15ed866097c998f",
+  "generated": "2024-01-22T16:56:08.180Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,6 +65,38 @@
         }
       ],
       "title": "Grid system for better Design User Interface"
+    },
+    {
+      "__outstatic": {
+        "commit": "a470b21a13293bf1141626bef15ed866097c998f",
+        "hash": "364615016",
+        "path": "outstatic/content/blogs/migrating-to-linear-101.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_3-M0ND.jpeg",
+      "description": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
+      "publishedAt": "2024-01-22T17:28:20.618Z",
+      "slug": "migrating-to-linear-101",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Movies",
+          "value": "movies"
+        },
+        {
+          "label": "UX design",
+          "value": "uxDesign"
+        },
+        {
+          "label": "UI",
+          "value": "ui"
+        }
+      ],
+      "title": "Migrating to Linear 101"
     }
   ]
 }
