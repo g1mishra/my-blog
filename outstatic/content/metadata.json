@@ -1,6 +1,6 @@
 {
-  "commit": "3018997e34c997e7b414094b7b2724750927682c",
-  "generated": "2024-01-22T16:23:30.012Z",
+  "commit": "7addfa578d98b80908d02c69023f2eafa45d161f",
+  "generated": "2024-01-22T16:27:18.361Z",
   "metadata": [
     {
       "__outstatic": {
@@ -22,8 +22,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3018997e34c997e7b414094b7b2724750927682c",
-        "hash": "1096448724",
+        "commit": "7addfa578d98b80908d02c69023f2eafa45d161f",
+        "hash": "3164953990",
         "path": "outstatic/content/blogs/ux-review-presentations.md"
       },
       "author": {
@@ -35,7 +35,7 @@
       "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
       "publishedAt": "2024-01-22T16:55:21.163Z",
       "slug": "ux-review-presentations",
-      "status": "draft",
+      "status": "published",
       "title": "UX review presentations"
     }
   ]
