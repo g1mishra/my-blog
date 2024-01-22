@@ -1,6 +1,6 @@
 {
-  "commit": "8a54048cfeb6c6ee40e8d94da8b5a889e47a3cd1",
-  "generated": "Mon, 22 Jan 2024 15:55:02 GMT",
+  "commit": "3018997e34c997e7b414094b7b2724750927682c",
+  "generated": "2024-01-22T16:23:30.012Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,6 +19,24 @@
       "slug": "grid-system-for-better-design-user-interface",
       "status": "draft",
       "title": "Grid system for better Design User Interface"
+    },
+    {
+      "__outstatic": {
+        "commit": "3018997e34c997e7b414094b7b2724750927682c",
+        "hash": "1096448724",
+        "path": "outstatic/content/blogs/ux-review-presentations.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_2-M2OT.jpeg",
+      "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
+      "publishedAt": "2024-01-22T16:55:21.163Z",
+      "slug": "ux-review-presentations",
+      "status": "draft",
+      "title": "UX review presentations"
     }
   ]
 }
