@@ -20,6 +20,14 @@
         {
           "value": "movies",
           "label": "Movies"
+        },
+        {
+          "value": "actionMovie",
+          "label": "action movie"
+        },
+        {
+          "value": "marvel",
+          "label": "Marvel"
         }
       ]
     }

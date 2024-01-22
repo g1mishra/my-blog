@@ -1,25 +1,7 @@
 {
-  "commit": "95412df39fe3c5e0d5e8ff1066aaf36454a9bc5c",
-  "generated": "2024-01-22T16:47:23.635Z",
+  "commit": "70f2d46f5a9a6e7bca4ea16c6d3bb1bb91e5ba1b",
+  "generated": "2024-01-22T16:47:51.463Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "9daea00995f500239d31da438cf5d3f06e375b2c",
-        "hash": "3711737090",
-        "path": "outstatic/content/blogs/grid-system-for-better-design-user-interface.md"
-      },
-      "author": {
-        "name": "Jeevan Kumar",
-        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/blog_1-U5MT.jpeg",
-      "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.",
-      "publishedAt": "2024-01-22T16:08:17.741Z",
-      "slug": "grid-system-for-better-design-user-interface",
-      "status": "published",
-      "title": "Grid system for better Design User Interface"
-    },
     {
       "__outstatic": {
         "commit": "95412df39fe3c5e0d5e8ff1066aaf36454a9bc5c",
@@ -51,6 +33,38 @@
         }
       ],
       "title": "UX review presentations"
+    },
+    {
+      "__outstatic": {
+        "commit": "70f2d46f5a9a6e7bca4ea16c6d3bb1bb91e5ba1b",
+        "hash": "1721149694",
+        "path": "outstatic/content/blogs/grid-system-for-better-design-user-interface.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_1-U5MT.jpeg",
+      "description": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.",
+      "publishedAt": "2024-01-22T16:08:17.741Z",
+      "slug": "grid-system-for-better-design-user-interface",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Movies",
+          "value": "movies"
+        },
+        {
+          "label": "action movie",
+          "value": "actionMovie"
+        },
+        {
+          "label": "Marvel",
+          "value": "marvel"
+        }
+      ],
+      "title": "Grid system for better Design User Interface"
     }
   ]
 }
