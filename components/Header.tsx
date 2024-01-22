@@ -21,7 +21,7 @@ const Header = () => {
   const pathname = usePathname();
 
   return (
-    <header className="container mx-auto flex items-center justify-between bg-dark py-7">
+    <header className="container mx-auto flex items-center px-4 justify-between bg-dark py-7">
       <h1 className="text-xl">
         <Link href="/">My blog</Link>
       </h1>

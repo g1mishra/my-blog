@@ -22,7 +22,7 @@ const footerLinks = [
 
 const Footer = () => {
   return (
-    <footer className="py-8 container mx-auto">
+    <footer className="py-8 px-4 container mx-auto">
       <ul className="flex gap-3 items-center">
         <li>© 2023</li>
         {footerLinks.map(({ href, label }) => (
