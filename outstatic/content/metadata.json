@@ -1,25 +1,7 @@
 {
-  "commit": "9daea00995f500239d31da438cf5d3f06e375b2c",
-  "generated": "2024-01-22T16:27:29.014Z",
+  "commit": "95412df39fe3c5e0d5e8ff1066aaf36454a9bc5c",
+  "generated": "2024-01-22T16:47:23.635Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "7addfa578d98b80908d02c69023f2eafa45d161f",
-        "hash": "3164953990",
-        "path": "outstatic/content/blogs/ux-review-presentations.md"
-      },
-      "author": {
-        "name": "Jeevan Kumar",
-        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
-      },
-      "collection": "blogs",
-      "coverImage": "/images/blog_2-M2OT.jpeg",
-      "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
-      "publishedAt": "2024-01-22T16:55:21.163Z",
-      "slug": "ux-review-presentations",
-      "status": "published",
-      "title": "UX review presentations"
-    },
     {
       "__outstatic": {
         "commit": "9daea00995f500239d31da438cf5d3f06e375b2c",
@@ -37,6 +19,38 @@
       "slug": "grid-system-for-better-design-user-interface",
       "status": "published",
       "title": "Grid system for better Design User Interface"
+    },
+    {
+      "__outstatic": {
+        "commit": "95412df39fe3c5e0d5e8ff1066aaf36454a9bc5c",
+        "hash": "1625890376",
+        "path": "outstatic/content/blogs/ux-review-presentations.md"
+      },
+      "author": {
+        "name": "Jeevan Kumar",
+        "picture": "https://avatars.githubusercontent.com/u/48170144?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "/images/blog_2-M2OT.jpeg",
+      "description": "How do you create compelling presentations that wow your colleagues and impress your managers?",
+      "publishedAt": "2024-01-22T16:55:21.163Z",
+      "slug": "ux-review-presentations",
+      "status": "published",
+      "tags": [
+        {
+          "label": "UI",
+          "value": "ui"
+        },
+        {
+          "label": "UX design",
+          "value": "uxDesign"
+        },
+        {
+          "label": "Movies",
+          "value": "movies"
+        }
+      ],
+      "title": "UX review presentations"
     }
   ]
 }
